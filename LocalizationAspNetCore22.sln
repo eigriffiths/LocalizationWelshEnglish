@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizationAspNetCore22", "LocalizationAspNetCore22\LocalizationAspNetCore22.csproj", "{ED66E9B4-F000-4578-BFD9-6C9E805C3BC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizationAspNetCore22.SharedResource", "LocalizationAspNetCore22.SharedResource\LocalizationAspNetCore22.SharedResource.csproj", "{EA206D8F-6062-47BA-80CC-F41B70951195}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ED66E9B4-F000-4578-BFD9-6C9E805C3BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED66E9B4-F000-4578-BFD9-6C9E805C3BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED66E9B4-F000-4578-BFD9-6C9E805C3BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA206D8F-6062-47BA-80CC-F41B70951195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA206D8F-6062-47BA-80CC-F41B70951195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA206D8F-6062-47BA-80CC-F41B70951195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA206D8F-6062-47BA-80CC-F41B70951195}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
