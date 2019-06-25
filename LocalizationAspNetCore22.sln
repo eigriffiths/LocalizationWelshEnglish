@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizationAspNetCore22", "LocalizationAspNetCore22\LocalizationAspNetCore22.csproj", "{ED66E9B4-F000-4578-BFD9-6C9E805C3BC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED66E9B4-F000-4578-BFD9-6C9E805C3BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED66E9B4-F000-4578-BFD9-6C9E805C3BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED66E9B4-F000-4578-BFD9-6C9E805C3BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED66E9B4-F000-4578-BFD9-6C9E805C3BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53DAA78-F535-45C7-BE33-29A5EB10312F}
+	EndGlobalSection
+EndGlobal
